@@ -1,0 +1,38 @@
+r
+u 0x00414357
+bpl
+bp 0x004163D5
+bpl 
+g
+ml
+r
+u 0x004161A0
+t
+bpl
+bpc 0
+bpl
+bp 0x00414974
+bp 0x0041490B
+bpl
+bh 0x00400000 a 2
+bh 0x0040003C a 1
+bhl
+bm 0x0044900C 2 r
+bml
+g
+t
+p
+p
+g
+p
+g
+g
+g
+g 0x00416299
+t
+r
+es
+q
+
+
+ls
